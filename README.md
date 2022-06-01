@@ -2,10 +2,10 @@
 
 [English](./README.en_US.md) | 简体中文
 
-极简 GIF 录屏工具，可快速复制 GIF 图像并粘贴到其他程序。   
+极简 GIF 录屏工具，可快速复制 GIF 图像并粘贴到其他程序。
 本软件复制的 GIF 文件可直接粘贴到 QQ、浏览器编辑器（例如微信公众号编辑器），不会出现无法预览、无效图像等问题。  
 
-[执行文件](https://gif123.aardio.com/download/Gif123.7z) 仅 820 KB 。兼容 XP，Vista，Win7，Win8，Win10，Win11...... 等所有流行桌面操作系统。 
+[执行文件](https://gif123.aardio.com/download/Gif123.7z) 仅 820 KB 。兼容 XP，Vista，Win7，Win8，Win10，Win11...... 等所有流行桌面操作系统。
 
 ![screenshot](./screenshots/zh.png)
 
@@ -32,4 +32,3 @@
 # 开源许可
 
 本项目使用  [MIT License](./LICENSE) 或 [GPL 2.0](LICENSE-GPL) 开源许可证。
-

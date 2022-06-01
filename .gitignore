@@ -5,3 +5,4 @@
 dist/
 .build/default.init.aardio
 .build/mp.lock
+build/
